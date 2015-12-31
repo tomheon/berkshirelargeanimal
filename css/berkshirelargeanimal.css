@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/css?family=Slabo:300,400,700);
+
+body, select, input {
+    font-family: '', sans-serif;
+}
+
+
+.jumbotron {
+    text-align: center;
+    margin-top: 30px;
+    background-color: #FCD0A5;
+}
+
+.info-box {
+    padding: 1em;
+}
+
+.portrait {
+    margin-top: 30px;
+}
+
+.phone {
+    font-size: large;
+}
